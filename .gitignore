@@ -1,0 +1,10 @@
+# Godot documentation reccomended folders and files to ignore
+.import/
+*.translation
+export_presets.cfg
+.mono/
+
+# Binaries
+bin/
+build/
+lib/
